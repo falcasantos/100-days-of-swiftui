@@ -43,3 +43,5 @@ https://twitter.com/twostraws).
 https://www.hackingwithswift.com/100/swiftui/16), [17](
 https://www.hackingwithswift.com/100/swiftui/17) and [18](
 https://www.hackingwithswift.com/100/swiftui/18))
+* Challenge 1: Time Converter (day [19](
+https://www.hackingwithswift.com/100/swiftui/19))
