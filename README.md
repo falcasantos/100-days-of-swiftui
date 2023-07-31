@@ -45,3 +45,7 @@ https://www.hackingwithswift.com/100/swiftui/17) and [18](
 https://www.hackingwithswift.com/100/swiftui/18))
 * Challenge 1: Time Converter (day [19](
 https://www.hackingwithswift.com/100/swiftui/19))
+* Project 2: Guess the Flag (days [20](
+https://www.hackingwithswift.com/100/swiftui/20), [21](
+https://www.hackingwithswift.com/100/swiftui/21) and [22](
+https://www.hackingwithswift.com/100/swiftui/22))
